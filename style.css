@@ -33,6 +33,6 @@ img{
 }
 @media (min-width: 375px){
     .main-div{
-        width: 500px;
+        width: 375px;
     }
 }
